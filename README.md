@@ -6,11 +6,13 @@ Built as the Front-End Development Internship assignment for Sankar Group.
 
 **Live demo:** https://mahak5123.github.io/Leadpilot-Ai/
 
+
 ## Screenshots
 
 | Desktop | Mobile |
 |---|---|
-| ![Desktop view](screenshots/desktop.png) | ![Mobile view](screenshots/mobile.png) |
+| ![Desktop view](screenshots/desktop.jpeg) | ![Mobile view](screenshots/mobile.jpeg) |
+
 
 ## What's on the page
 
